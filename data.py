@@ -7,7 +7,7 @@ from PIL import Image
 from transformers import ViTModel
 from torchvision.transforms import transforms
 
-project_path = r"dataset/MVSA_Single/data/"
+project_path = r"MVSA_Single/data/"
 class TextDataset(Dataset):
     def __init__(self, sentences, labels, method_name, model_name):
         self.sentences = sentences
