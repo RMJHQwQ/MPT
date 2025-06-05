@@ -6,8 +6,11 @@ This is the repository of paper: Multimodal Sentiment Analysis with Multi-Perspe
 # Requrements
 We give the version of the python package we used.
 ```python
-python 3.8
-pytorch 1.12.0
+python                         3.11.8
+pytorch                        2.2.1+cu121
+einops                         0.8.1
+pillow                         10.2.0
+transformers                   4.49.0
 ```
 
 # Data
