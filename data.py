@@ -153,7 +153,7 @@ def load_both_dataset(tokenizer, train_batch_size, test_batch_size, model_name, 
     return train_loader, test_loader
 
 def load_text_dataset(tokenizer, train_batch_size, test_batch_size, model_name, method_name, workers):
-    data = pd.read_csv('label.csv', sep=None, header=0, encoding='gbk', engine='python')
+    data = pd.read_csv('label.tsv', sep=None, header=0, encoding='gbk', engine='python')
     len1 = int(len(list(data['labels'])) )
     labels = list(data['labels'])[0:len1]
     sentences = list(data['sentences'])[0:len1]
