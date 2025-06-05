@@ -14,7 +14,7 @@ transformers                   4.49.0
 ```
 
 # Data
-In this paper, we construct four datasets with multi-perspective thinkings from the LMMs in multimodal sentiment analysis tasks on the basis of the datasets MVSA, Memotion and the CH-Mits. These four datasets file is given in this repository whose filename ends with '.tsv'.
+In this paper, we construct four datasets with multi-perspective thinkings from the LMMs in multimodal sentiment analysis tasks on the basis of the datasets MVSA, Memotion and the CH-Mits. These four datasets files are given in this repository whose filenames end with '.tsv'.
 
 We upload the original MVSA-Single dataset in the MVSA-Single folder.
 
