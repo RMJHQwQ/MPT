@@ -6,12 +6,15 @@ This is the repository of paper: Multimodal Sentiment Analysis with Multi-Perspe
 # Requrements
 We give the version of the python package we used.
 ```python
-python 3.8
-pytorch 1.12.0
+python                         3.11.8
+pytorch                        2.2.1+cu121
+einops                         0.8.1
+pillow                         10.2.0
+transformers                   4.49.0
 ```
 
 # Data
-In this paper, we construct four datasets with multi-perspective thinkings from the LMMs in multimodal sentiment analysis tasks on the basis of the datasets MVSA, Memotion and the CH-Mits. These four datasets file is given in this repository whose filename ends with '.tsv'.
+In this paper, we construct four datasets with multi-perspective thinkings from the LMMs in multimodal sentiment analysis tasks on the basis of the datasets MVSA, Memotion and the CH-Mits. These four datasets file is given in this repository whose filename ends with '.tsv'. (Tips: If you see the encoding errors in the annonymous repository, you can download the ```.tsv``` file on your own device and then the errors will disappear.)
 
 We upload the original MVSA-Single dataset in the MVSA-Single folder.
 
