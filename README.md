@@ -25,7 +25,7 @@ For original Memotion dataset, please refer to paper "Task Report: Memotion Anal
 For original CH-Mits dataset, please refer to https://github.com/Marblrdumdore/CH-Mits
 
 # Run Code
-Before running the code, you should download the pretrained parameters of the textual encoder and the visual encoder. Due to the large size of the pretrained models, we give the downloading links so that you can access them. If the paper could be accepted, we will attach the Baidu Disk and Google Drive url here for the convenience of downloading.
+Before running the code, you should download the pre-trained parameters of the textual encoder and the visual encoder. Due to the large size of the pretrained models, we give the downloading links so that you can access them. If the paper could be accepted, we will attach the Baidu Disk and Google Drive url here for the convenience of downloading.
 
 For the textual encoder, you can refer to the open-source BERT model through https://huggingface.co/google-bert/bert-base-uncased
 
