@@ -14,13 +14,13 @@ transformers                   4.49.0
 ```
 
 # Data
-In this paper, we construct four datasets with multi-perspective thinkings from the LMMs in multimodal sentiment analysis tasks on the basis of the datasets MVSA, Memotion and the CH-Mits. These four datasets file is given in this repository whose filename ends with '.tsv'. (Tips: If you see the encoding errors in the annonymous repository, you can download the ```.tsv``` file on your own device and then the errors will disappear.)
+In this paper, we construct four datasets with multi-perspective thinkings from the LMMs in multimodal sentiment analysis tasks on the basis of the datasets MVSA, Memotion and the CH-Mits. These four datasets file is given in this repository whose filename ends with '.tsv'.
 
 We upload the original MVSA-Single dataset in the MVSA-Single folder.
 
 For original MVSA-Multiple dataset, please refer to https://mcrlab.net/research/mvsa-sentiment-analysis-on-multi-view-social-data/
 
-For original Memotion dataset, please refer to paper "Task Report: Memotion Analysis 1.0 @SemEval 2020: The Visuo-Lingual Metaphor!"
+For original Memotion dataset, please refer to paper "Task Report: Memotion Analysis 1.0 @SemEval 2020: The Visuo-Lingual Metaphor!" https://aclanthology.org/2020.semeval-1.99/
 
 For original CH-Mits dataset, please refer to https://github.com/Marblrdumdore/CH-Mits
 
