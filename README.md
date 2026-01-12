@@ -42,5 +42,5 @@ python main.py
 If you want to change the dataset, you can modify the dataset path in the lines 10 and 135 in the file ```data.py```
 
 # GenAI Disclosure
-There was no use of GenAI toos whatsoever in any stage of the research.
+There was no use of GenAI tools whatsoever in any stage of the research.
 
