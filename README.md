@@ -3,7 +3,7 @@ This is the repository of paper: Multimodal Sentiment Analysis with Multi-Perspe
 
 ![image](https://github.com/user-attachments/assets/0fb7c4a2-0565-49d1-a01f-e91b6c0a62d3)
 
-# Requrements
+# Requirements
 We give the version of the python package we used.
 ```python
 python                         3.11.8
